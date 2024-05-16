@@ -1,0 +1,802 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dados",
+				"dadosJSONObj"
+			],
+			[
+				"xml",
+				"XMLHttpRequest"
+			],
+			[
+				"get",
+				"getDadosEnderecoPorCEP"
+			],
+			[
+				"Json",
+				"JSONFilmes"
+			],
+			[
+				"JSON",
+				"JSONFilmes"
+			],
+			[
+				"Jso",
+				"JSONFilmes"
+			],
+			[
+				"XML",
+				"XMLFilmes"
+			],
+			[
+				"exe",
+				"executarMania"
+			],
+			[
+				"getN",
+				"getNumFilhos"
+			],
+			[
+				"puc",
+				"public"
+			],
+			[
+				"chamado",
+				"chamado_dados"
+			],
+			[
+				"cham",
+				"chamado_dados"
+			],
+			[
+				"usua",
+				"usuario_perfil_id"
+			],
+			[
+				"_S",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"usu",
+				"usuario_id"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"_s",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"_SE",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"sess",
+				"session_start()"
+			],
+			[
+				"usuario",
+				"usuario_possui_cartao_loja"
+			],
+			[
+				"funcio",
+				"funcionario"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"fun",
+				"funcionario"
+			],
+			[
+				"j",
+				"José"
+			],
+			[
+				"re",
+				"registros"
+			],
+			[
+				"is",
+				"is_array()"
+			],
+			[
+				"lista",
+				"lista_coisas"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"dif",
+				"diferenca_de_dias_entre_as_datas"
+			],
+			[
+				"se",
+				"segundos_existem_dia"
+			],
+			[
+				"d",
+				"diferenca_times"
+			],
+			[
+				"time",
+				"time_inicial"
+			],
+			[
+				"data",
+				"data_inicial"
+			],
+			[
+				"ca",
+				"calcularAreaTerreno"
+			],
+			[
+				"val",
+				"valor_frete"
+			],
+			[
+				"valor",
+				"valor_compra"
+			],
+			[
+				"htm",
+				"html\thtml"
+			],
+			[
+				"in",
+				"parseInt"
+			],
+			[
+				"de",
+				"despesasFiltradas"
+			],
+			[
+				"des",
+				"despesasFiltradas"
+			],
+			[
+				"modal_titu",
+				"modal_titulo_div"
+			],
+			[
+				"ti",
+				"tituloArtigo"
+			],
+			[
+				"bii",
+				"Bicicleta3"
+			],
+			[
+				"Bi",
+				"BicicletaFactory"
+			],
+			[
+				"carr",
+				"carro2"
+			],
+			[
+				"velo",
+				"velocidadeMaxima"
+			],
+			[
+				"veo",
+				"velocidadeMaxima"
+			],
+			[
+				"getV",
+				"getVelocidadeAtual"
+			],
+			[
+				"veloc",
+				"velocidadeAtual"
+			],
+			[
+				"produ",
+				"produtoLiteral"
+			],
+			[
+				"aves",
+				"avestruz"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"Pa",
+				"Papagaio"
+			],
+			[
+				"pa",
+				"Papagaio"
+			],
+			[
+				"con",
+				"consultarSaldo"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"posic",
+				"posicaoX"
+			],
+			[
+				"posi",
+				"posicaoX"
+			],
+			[
+				"lis",
+				"listaConvidados"
+			],
+			[
+				"list",
+				"lista_frutas1"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"onkey",
+				"onkeyup"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"onres",
+				"onresize"
+			],
+			[
+				"milise",
+				"miliseg_entre_datas"
+			],
+			[
+				"cal",
+				"callbackErro"
+			],
+			[
+				"call",
+				"callbackSucesso"
+			],
+			[
+				"exibir",
+				"exibirArtigo"
+			],
+			[
+				"callback",
+				"callbackErro"
+			],
+			[
+				"var",
+				"variavel2"
+			],
+			[
+				"carou",
+				"carousel-item"
+			],
+			[
+				"caro",
+				"carousel-controles"
+			],
+			[
+				"lsi",
+				"list-style"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"navbar-",
+				"navbar-expand-md"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"inpu",
+				"input-group-append"
+			],
+			[
+				"mt",
+				"mt-auto"
+			],
+			[
+				"flex",
+				"flex-column"
+			],
+			[
+				"alig",
+				"align-items-start"
+			],
+			[
+				"ali",
+				"align-items-center"
+			],
+			[
+				"align",
+				"align-self-ALINHAMENTO"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"dis",
+				"display-4"
+			],
+			[
+				"displ",
+				"display-4"
+			],
+			[
+				"tn",
+				"btn-outline-primary"
+			],
+			[
+				"car",
+				"card-header"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"ta",
+				"thead-dark"
+			],
+			[
+				"progres",
+				"progress-bar-striped"
+			],
+			[
+				"aler",
+				"alert-success"
+			],
+			[
+				"inp",
+				"input-group-prepend"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"li",
+				"list-group"
+			],
+			[
+				"dro",
+				"dropdown-item"
+			],
+			[
+				"text-d",
+				"text-danger"
+			],
+			[
+				"text-w",
+				"text-warning"
+			],
+			[
+				"d-in",
+				"d-inline-block"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"algin",
+				"align-items"
+			],
+			[
+				"co",
+				"column-reverse"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ami",
+				"animation"
+			],
+			[
+				"animation",
+				"animation"
+			],
+			[
+				"anima",
+				"animation-duration"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/php_pdo/index.php",
+		"/C/xampp/htdocs/ajax/app_pesquisa_endereco/index.html",
+		"/C/xampp/htdocs/ajax/filmes2.html",
+		"/C/xampp/htdocs/ajax/requisicoes_assincronas.html",
+		"/C/xampp/htdocs/ajax/pagina_1_conteudo.php",
+		"/C/xampp/htdocs/ajax/filmes.xml",
+		"/C/xampp/htdocs/ajax/filmes.html",
+		"/C/xampp/htdocs/app_send_mail/index.php",
+		"/C/xampp/htdocs/app_send_mail/processa_envio.php",
+		"/C/xampp/app_send_mail/processa_envio.php",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Análise e Desenv. de Sistemas/1º Semestre/PIM - IV/Code Blocks/Não confirmado 483277.crdownload",
+		"/C/xampp/htdocs/php_8_features/correspondencia-expressao.php",
+		"/C/xampp/htdocs/php_8_features/promocao-propriedade-construtor.php",
+		"/C/xampp/htdocs/php_8_features/argumentos-nomeados.php",
+		"/C/xampp/htdocs/php 8 features/argumentos-nomeados.php",
+		"/C/xampp/htdocs/app_send_mail/processo_envio.php",
+		"/C/xampp/htdocs/php_oo/tratamento_erros.php",
+		"/C/xampp/htdocs/php_oo/tratamento_erros_customizados.php",
+		"/C/xampp/htdocs/php_oo/bibliotecas/lib1/lib1.php",
+		"/C/xampp/htdocs/php_oo/bibliotecas/lib2/lib2.php",
+		"/C/xampp/htdocs/php_oo/namespaces_parte2.php",
+		"/C/xampp/htdocs/php_oo/namespaces_parte1.php",
+		"/C/xampp/htdocs/php_oo/interfaces.php",
+		"/C/xampp/htdocs/php_oo/atributos_e_metodos_estaticos.php",
+		"/C/xampp/htdocs/php_oo/oo_pilar_heranca.php",
+		"/C/xampp/htdocs/php_oo/oo_pilar_abstracao.php",
+		"/C/xampp/htdocs/php_oo/oo_pilar_polimorfismo.php",
+		"/C/xampp/htdocs/php_oo/oo_pilar_encapsulamento.php",
+		"/C/xampp/htdocs/php_oo/construtor_destrutor.php",
+		"/C/xampp/htdocs/app_help_desk/valida_login.php",
+		"/C/xampp/htdocs/app_help_desk/registra_chamado.php",
+		"/C/xampp/htdocs/app_help_desk/home.php",
+		"/C/xampp/htdocs/app_help_desk/consultar_chamado.php",
+		"/C/xampp/htdocs/app_help_desk/arquivo.hd",
+		"/C/xampp/htdocs/app_help_desk/logoff.php",
+		"/C/xampp/htdocs/app_help_desk/abrir_chamado.php",
+		"/C/xampp/htdocs/app_help_desk/validador_acesso.php",
+		"/C/xampp/htdocs/incorporando_scripts/vagas.php",
+		"/C/xampp/htdocs/incorporando_scripts/minha_rede.php",
+		"/C/xampp/htdocs/incorporando_scripts/inicio.php",
+		"/C/xampp/htdocs/incorporando_scripts/menu.php",
+		"/C/xampp/htdocs/app_help_desk/index.php",
+		"/C/xampp/htdocs/loops_pratica_2.php",
+		"/C/xampp/htdocs/loops_foreach.php",
+		"/C/xampp/htdocs/loops_pratica_1.php",
+		"/C/xampp/htdocs/loops_for.php",
+		"/C/xampp/htdocs/loops_do_while.php",
+		"/C/xampp/htdocs/loops_while.php",
+		"/C/xampp/htdocs/funcoes_array.php",
+		"/C/xampp/htdocs/false_null_empty.php",
+		"/C/xampp/htdocs/arrays_pesquisa.php",
+		"/C/xampp/htdocs/arrays_multidimensional.php",
+		"/C/xampp/htdocs/arrays_basico.php",
+		"/C/xampp/htdocs/funcoes_data.php",
+		"/C/xampp/htdocs/funcoes_matematicas.php",
+		"/C/xampp/htdocs/funcoes_string.php",
+		"/C/xampp/htdocs/funcoes.php",
+		"/C/xampp/htdocs/operadores_incremento_decremento.php",
+		"/C/xampp/htdocs/operadores_atribuicao_aritmeticos.php",
+		"/C/xampp/htdocs/operadores_aritmeticos.php",
+		"/C/xampp/htdocs/casting_tipos.php",
+		"/C/xampp/htdocs/switch.php",
+		"/C/xampp/htdocs/ifelse_praticando.php",
+		"/C/xampp/htdocs/ifelse_operadores_logicos.php",
+		"/C/xampp/htdocs/ifelse_operadores_condicionais.php",
+		"/C/xampp/htdocs/variaveis_constantes.php",
+		"/C/xampp/htdocs/concatenacao.php",
+		"/C/xampp/htdocs/variaveis.php",
+		"/C/xampp/htdocs/echo_print.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/bkp/echo_print.php",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/App Orçamento Pessoal/app.js",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/App Orçamento Pessoal/consulta.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/App Orçamento Pessoal/index.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/App Orçamento Pessoal/desafio.js",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/App Orçamento Pessoal/desafio.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/App Orçamento Pessoal/arquivos_iniciais/app.js",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/destructuring_rest.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/destructuring_funcoes.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/destructuring_objeto.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/destructuring_array.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/operador_rest.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/operador_spread.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/prototype_heranca.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/prototype.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/funcao_factory.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/funcoes_construtoras_encapsulamento.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/funcoes_construtoras.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/objeto_literal_unico.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/objeto_literal_inclusao.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/objeto_literal_modificando.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/objeto_literal_melhorias.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/objeto_literal.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/oo_polimorfismo.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/operador_super.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/oo_heranca.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/oo_encapsulamento.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/abstracao_reflexao.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/oo_abstracao.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/funcoes_arrow_function.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/funcoes_parametros_default.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/template_string.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/const.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/configuracao_babel.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 9 - ECMAScript(ES6) e Orientação a Objetos/ES6/var_let.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/vitoria.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/bom_timing.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/bom_location.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/bom_screen.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/bom_window.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/tratamento_erros.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/funcoes.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 7 - Bootstrap 4 e Design Responsivo/Bootstrap4/Projeto-Spotify/index.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/for_each.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/for_in.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/lacos_pratica_2.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/lacos_pratica_1.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/for.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/do_while.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/for.html]",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/while.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/array_ordenacao.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/array_pesquisa.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/array_incluir_excluir.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/array_multidimensional.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/array_basico.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/projeto_app1_calculadora/index.html",
+		"/C/Users/gabri/OneDrive/Área de Trabalho/Dev Web/Seção 8 - JavaScript/JavaScript/meu_script.js"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 123.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
